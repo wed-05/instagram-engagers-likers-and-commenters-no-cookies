@@ -1,0 +1,8 @@
+{
+  "api_url": "https://api.instagram.com",
+  "post_urls": [
+    "DJHhRQzMLWD",
+    "DJHhRQzMLWD2"
+  ],
+  "output_file": "data/sample.json"
+}
